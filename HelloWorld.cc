@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-cout<<"Hello world changed from new branch";
+cout<<"Hello world changed from master ";
 return 0;
 }
